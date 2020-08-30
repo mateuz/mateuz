@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mateuz/mateuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/mateuz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateuz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateuz&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateuz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateuz&layout=normal&exclude_lang=&theme=graywhite" />
   </a>
 </p>
