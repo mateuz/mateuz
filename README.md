@@ -1,10 +1,6 @@
-###  :wave: &nbsp;What's up, guys!
+###  :wave: &nbsp;What's up, guys! 🚀
 
 I'm a computer scientist passionated about science and technology. As a PhD student, I research on bioinformatics at the Federal University of Rio Grande do Sul 😅😅
-
-Using high-performance computing, I'm always looking to build efficient solutions in terms of speed and energy costly 🚀🚀
-
-### 🤝🏻 &nbsp;Connect with me
 
 <a href="mailto:mateuz.boiani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/mateus-boiani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
@@ -23,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/mateuz">
